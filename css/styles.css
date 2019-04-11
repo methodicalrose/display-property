@@ -1,4 +1,4 @@
-.block {
+/* .block {
     height: 20px;
     border: 1px solid blue;
 }
@@ -27,4 +27,10 @@
     display: block;
     background-color: yellow;
     padding: 10px;
+} */
+.display-none {
+    display: none;
+}
+.visibility-hidden {
+    visibility: hidden;
 }
